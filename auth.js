@@ -32,3 +32,7 @@ function login() {
     alert("Wrong password!");
   }
 }
+  } else {
+    alert("Wrong password!");
+  }
+}
